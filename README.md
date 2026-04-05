@@ -11,26 +11,29 @@
 
 
 ### 🔐 Login / Authentication
-(https://github.com/user-attachments/assets/0b74e30d-4014-4c76-9b7f-39860d44e896)
+![e931f8d8-d95a-4d03-9dc4-a33ae18bfda5](https://github.com/user-attachments/assets/a7488074-c44c-4fba-9636-ef4917c18686)
+
 
 ### 🎯 Home Dashboard
-(https://github.com/user-attachments/assets/599acb04-a2f0-4313-bcd9-8534f29d9d5e)
+![597480cb-8344-4d14-8316-fd275e4caaf5](https://github.com/user-attachments/assets/8db473d4-1be2-4e85-ba63-d1dc5f2baa15)
 
 
 ### ➕ Create New Resume (Template Picker)
-![Create Resume Modal](./screenshots/04-create-resume-modal.png)
+![9eb810e3-c8c1-4c94-a451-2e7d74172504](https://github.com/user-attachments/assets/89a9fabb-1775-4303-92ce-a5a6c0b16099)
+
 
 ### ✏️ Resume Editor
-![Resume Editor](./screenshots/05-resume-editor.png)
+![e60c33bd-ff98-4fb7-a2af-2799f5f61637](https://github.com/user-attachments/assets/cacfb78f-ff7e-40c9-bc40-8448fa9fa527)
 
 ### 📤 Upload Existing Resume
-![Upload Modal](./screenshots/06-upload-modal.png)
+![1f46abdf-314c-46bc-9d85-b57b1c8f0794](https://github.com/user-attachments/assets/ea77efe5-08a7-4451-a6bf-09069a07d43d)
 
 ### 🤖 AI-Parsed Resume Result
-![Parsed Resume](./screenshots/07-parsed-resume.png)
+![94cb5fe8-c7cf-4480-bc59-387e1c324af4](https://github.com/user-attachments/assets/ff5c8406-3adf-4c82-9420-a752131da36c)
+
 
 ### 📋 My Resumes Dashboard
-![My Resumes](./screenshots/08-my-resumes.png)
+![0067cc7d-ca3d-4c37-a6ca-06a7798dec13](https://github.com/user-attachments/assets/e0322684-e12b-4b2f-9b5e-0d0134f5ec42)
 
 ---
 
@@ -50,7 +53,7 @@
 
 ## Overview
 
-Over **90% of Fortune 500 companies** use an ATS (Applicant Tracking System) to automatically scan and filter resumes before any human reads them. Even the best-written resume fails if it's not ATS-optimized.
+Over **90% of Fortune 500 companies** use an ATS (Applicant Tracking System) to automatically scan and filter resumes before any human reads them. Even the best-written resume fails if it's not ATS-optimised.
 
 This project solves that problem by combining:
 
@@ -69,9 +72,9 @@ This project solves that problem by combining:
 | **PDF Upload & Parsing** | Upload existing PDF resumes and extract structured data using AI |
 | **5 Professional Templates** | Classic Professional, Modern Tech, Creative Bold, Minimal Clean, Executive |
 | **AI Interview Agent** | Real AI agent using LangChain function calling — autonomously updates resume sections during conversation |
-| **STAR Bullet Generation** | AI transforms raw experience into optimized bullet points |
+| **STAR Bullet Generation** | AI transforms raw experience into optimised bullet points |
 | **ATS Scoring (10 Metrics)** | Hybrid algorithmic + AI scoring against job descriptions |
-| **Resume Review** | AI provides comprehensive feedback as a senior career counselor |
+| **Resume Review** | AI provides comprehensive feedback as a senior career counsellor |
 | **Version Management** | Save, restore, and compare resume snapshots |
 | **Google OAuth + JWT Auth** | Secure login via Google or email/password |
 
